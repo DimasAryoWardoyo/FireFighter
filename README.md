@@ -23,7 +23,7 @@ FireFighter Bot is an Arduino-based project designed to detect and extinguish fi
 - Miscellaneous (resistors, wires, breadboard, etc.)
 
 ## How It Works
-
+![Sketch Gambar](sketch.jpg)
 1. The flame sensor continuously monitors for fire.
 2. Upon detecting a fire, the servo motor aligns the water pump to target the flame.
 3. The water pump is activated to extinguish the fire.
