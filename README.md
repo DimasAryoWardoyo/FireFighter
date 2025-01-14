@@ -45,6 +45,13 @@ The code is written in Arduino C and includes the following key elements:
 - **Setup Function:** Initializes all components and sets pin modes.
 - **Loop Function:** Continuously monitors sensor inputs and executes fire-fighting logic.
 
+## Links and Resources
+
+- **PDF Sketch:** [Drive Link](https://drive.google.com/file/d/15X5LT9lqbTVAk00VQzdXvvYD8MUygqg6/view?usp=sharing)
+- **Publication:** [Fire Detector and Fire Fighter](https://launchinpad.com/project/fire-detector-fire-fighter-7dcfc75)
+- **GitHub Repository:** [FireFighter Project](https://github.com/DimasAryoWardoyo/FireFighter.git)
+- **Project Video:** [TikTok Video](https://vt.tiktok.com/ZS6QBRC6q/)
+
 ## Safety Note
 
 This project is designed for educational purposes only. Ensure safety precautions when testing with flames and use small, controlled fires in a safe environment.
@@ -56,6 +63,17 @@ Feel free to fork the repository and contribute to improving the FireFighter Bot
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Team Members
+
+This project was developed by the following team:
+
+- Muhammad Ariel Eka Putra (23.11.5754)
+- Dimas Aryo Wardoyo (23.11.5755)
+- Febrio Pasha Arwanda (23.11.5763)
+- Alifia Sansabila Sukardin (23.11.5785)
+- Moh Ade Ersa Nanda (23.11.5788)
+- Laily Yudha Mukti (23.11.5793)
 
 ---
 
