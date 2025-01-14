@@ -1,5 +1,5 @@
 # FireFighter Bot
-![Judul Gambar](https://drive.google.com/file/d/1emVAN6W_8kVa7mWaR3VVX9IqhIZIi-oo/view?usp=sharing)
+![Judul Gambar](1736841166533~3.jpg)
 
 FireFighter Bot is an Arduino-based project designed to detect and extinguish fires. It integrates sensors and actuators to create a functional fire-fighting robot. The system includes a flame sensor, servo motor, water pump, and an ultrasonic sensor to navigate and react to fire hazards.
 
